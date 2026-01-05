@@ -22,7 +22,7 @@ const Home = () => {
   const someProducts = products.splice(0, 8);
   return (
     <div>
-      <h1>change</h1>
+     
       <Banner></Banner>
       <div className="mx-auto max-w-[1440px] py-10">
         <div className="text-center flex gap-4 flex-col py-10">
